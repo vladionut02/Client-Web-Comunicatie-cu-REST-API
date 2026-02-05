@@ -5,7 +5,7 @@ web service for user authentication and library management. The client supports
 session handling via cookies, JWT-based authorization, and JSON request/response
 processing.
 
-Originally developed as part of a Computer Networks / Web Client assignment, this
+Originally developed as part of a Communication Protocols assignment, this
 project emphasizes low-level HTTP communication, request construction, and robust
 client-side validation.
 
